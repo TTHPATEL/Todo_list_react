@@ -1,0 +1,12 @@
+input {
+  width: 100%;
+}
+
+.tp-row {
+  margin: 10px 5px;
+}
+
+.tp-button {
+  min-width: 80px;
+  margin-left: 110px;
+}
